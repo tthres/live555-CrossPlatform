@@ -6,7 +6,7 @@ live555项目的CMake管理<br/>
 
 ## 编译
 
-1. 克隆项目：`git clone git@gitlab.gz.cvte.cn:zhangkaizhe/live555-cmake.git`
+1. 克隆项目：`git@github.com:tthres/live555-CrossPlatform.git`
 2. 进入项目目录：`cd live555-cmake`
 ### Windows
 执行： `Windows-build.bat`
